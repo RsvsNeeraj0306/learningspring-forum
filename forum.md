@@ -36,7 +36,7 @@ The `NotificationRepository` is a Spring Data JPA repository responsible for man
 
 In this section, we provide an explanation of the Entity-Relationship (ER) diagram that illustrates the structure and relationships within our database. The ER diagram is a visual representation of how data is organized in our system. Below, we describe key elements of the diagram:
 
-[ER Diagram]([learningspring/er.PNG at main · RsvsNeeraj0306/learningspring ](https://github.com/RsvsNeeraj0306/learningspring/blob/main/er.PNG))
+[ER Diagram]([er.PNG](https://github.com/RsvsNeeraj0306/learningspring/blob/main/er.PNG))
 
 
 
